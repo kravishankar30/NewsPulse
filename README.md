@@ -1,3 +1,42 @@
+<h1 align="center">NewsPulse</h1>
+
+<p align = "center"><a href="https://github.com/kravishankar30/NewsPulse/issues">Report Issue</a> | <a href="https://github.com/kravishankar30/NewsPulse/issues">Suggest Feature</a></p>
+
+<h2>About the Project</h2>
+NewsPulse is an innovative news website that delivers hourly updates of credible news content sourced from multiple online outlets using the Fetch API. The app is designed to deliver news from reliable sources in real-time, ensuring that users are always up-to-date with the latest developments from around the world. NewsPulse categorizes news into seven different categories, allowing users to quickly access various news content.
+
+<h2>Project Images</h2>
+
+General Headlines
+<img width="1469" alt="Screenshot 2023-06-18 at 8 05 02 PM" src="https://github.com/kravishankar30/NewsPulse/assets/112440858/9e9bcb33-58e2-4a05-a1fc-be2db810b2af">
+
+Business Headlines
+<img width="1469" alt="Screenshot 2023-06-18 at 8 06 29 PM" src="https://github.com/kravishankar30/NewsPulse/assets/112440858/3f5985d6-b15e-400c-8d99-5fbc151e28d8">
+
+Entertainment Headlines
+<img width="1469" alt="Screenshot 2023-06-18 at 8 06 40 PM" src="https://github.com/kravishankar30/NewsPulse/assets/112440858/f8c7a6bf-6d06-4550-a169-74160a3bbc24">
+
+Health Headlines
+<img width="1469" alt="Screenshot 2023-06-18 at 8 06 54 PM" src="https://github.com/kravishankar30/NewsPulse/assets/112440858/41f842e6-e180-415b-b9e9-2dca4e371c1e">
+
+Science Headlines
+<img width="1469" alt="Screenshot 2023-06-18 at 8 06 59 PM" src="https://github.com/kravishankar30/NewsPulse/assets/112440858/c2645a02-e915-4dcb-a7c7-2dcaa50e3e74">
+
+Sports Headlines
+<img width="1469" alt="Screenshot 2023-06-18 at 8 07 05 PM" src="https://github.com/kravishankar30/NewsPulse/assets/112440858/cf134c32-aa95-434a-9633-464c226bc1c4">
+
+Technology Headlines
+<img width="1469" alt="Screenshot 2023-06-18 at 8 07 15 PM" src="https://github.com/kravishankar30/NewsPulse/assets/112440858/e755b08c-4a7b-4338-9acb-2afc7c7448b4">
+
+<h2>Built With</h2>
+
+* React.js
+* Fetch API
+* News API
+
+<h2>Acknowledgment</h2>
+This project was guided through a tutorial by CodeWithHarry.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
